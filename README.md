@@ -12,7 +12,7 @@ Once Dart is installed, you can download and install the CLI app by running the 
 #### 1. Clone the repository to your machine
 
 ```sh
-    git clone https://github.com/divineamunega/weatherapp-dart.git
+    git clone https://github.com/divineamunega/weatherapp_dart.git
 ```
 
 #### 2. Run the file
